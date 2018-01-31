@@ -1,15 +1,10 @@
-# Reversion de datos de OpenStreetMap en Perú
+# Reversión de datos de OpenStreetMap en Perú
 
-Repositorio para  coordinación para en respuesta a la reversión de datos que se está generando en el Peru.
+Este repositorio fue creado para realizar las coordinaciones en respuesta a la reversión de datos que se está generando en el Perú.
 
+- Contáctese a la comunidad de OpenStreetMap Perú en telegram: https://web.telegram.org//im?p=@osmPe
 
-- Contactenos a la comunidad OpenStreetMap Perú en : https://web.telegram.org//im?p=@osmPe
-
-- OpenStreetMap Wiki  https://wiki.openstreetmap.org/wiki/ES:Per%C3%BA
-
-- Otros links:
-   - https://github.com/developmentseed/mapping/issues/13
-   
+- Wiki de OpenStreetMap Perú: https://wiki.openstreetmap.org/wiki/ES:Per%C3%BA 
    
    ![](https://wiki.openstreetmap.org/w/images/e/ec/OSM_Peru_logo.svg)
 
