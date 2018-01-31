@@ -1,4 +1,4 @@
-# osm-redaction-peru
+# Reversion de datos de OpenStreetMap en Perú
 
 Repositorio para  coordinación para en respuesta a la reversión de datos que se está generando en el Peru.
 
